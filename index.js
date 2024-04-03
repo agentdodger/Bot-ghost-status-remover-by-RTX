@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Watching Bucket Studios","Playing Rec Room"];
+const statusMessages = ["Playing Anomic"];
 
 
 let currentIndex = 0;
